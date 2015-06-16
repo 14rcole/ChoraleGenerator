@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Chord-List>
+<Chord name = "I">
+<Type>Diatonic</Type>
+<Note1>C</Note1>
+<Note2>E</Note2>
+<Note3>G</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "ii">
+<Type>Diatonic</Type>
+<Note1>D</Note1>
+<Note2>F</Note2>
+<Note3>A</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "iii">
+<Type>Diatonic</Type>
+<Note1>E</Note1>
+<Note2>G</Note2>
+<Note3>B</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "IV">
+<Type>Diatonic</Type>
+<Note1>F</Note1>
+<Note2>A</Note2>
+<Note3>C</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "V">
+<Type>Diatonic</Type>
+<Note1>G</Note1>
+<Note2>B</Note2>
+<Note3>D</Note3>
+<Note4></Note4>
+</Chord>
+
+
+<Chord name = "V7">
+<Type>Diatonic</Type>
+<Note1>G</Note1>
+<Note2>B</Note2>
+<Note3>D</Note3>
+<Note4>F</Note4>
+</Chord>
+
+<Chord name = "vi">
+<Type>Diatonic</Type>
+<Note1>A</Note1>
+<Note2>C</Note2>
+<Note3>E</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "vii">
+<Type>Diatonic</Type>
+<Note1>B</Note1>
+<Note2>D</Note2>
+<Note3>F</Note3>
+<Note4></Note4>
+</Chord>
+
+
+<Chord name = "V/V">
+<Type>Secondary Dominant</Type>
+<Note1>D</Note1>
+<Note2>F#</Note2>
+<Note3>A</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "V7/V">
+<Type>Secondary Dominant</Type>
+<Note1>D</Note1>
+<Note2>F#</Note2>
+<Note3>A</Note3>
+<Note4>C</Note4>
+</Chord>
+
+<Chord name = "V/vi">
+<Type>Secondary Dominant</Type>
+<Note1>E</Note1>
+<Note2>G#</Note2>
+<Note3>B</Note3>
+<Note4></Note4>
+</Chord>
+
+<Chord name = "V7/vi">
+<Type>Secondary Dominant</Type>
+<Note1>E</Note1>
+<Note2>G#</Note2>
+<Note3>B</Note3>
+<Note4>D</Note4>
+</Chord>
+</Chord-List>
